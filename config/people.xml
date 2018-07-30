@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Peoples> 
+  <people pId="fc405f26-d05a-4fdc-850b-ae0e55e5e9d0" 名字="章赣" 年龄="21" 职业="剑客"/>  
+  <people pId="2f49d0e2-420d-41ba-b1f6-cd0979ad4a18" 名字="盲僧" 年龄="29" 职业="剑客"/>  
+  <people pId="5faf6ef5-3a2d-46e9-908e-910af957c34e" 名字="阿斯顿发" 年龄="20" 职业="和尚"/>  
+  <people pId="bf61a951-a5dd-4542-9844-f523b98588f8" 名字="章赣" 年龄="21" 职业="坦克"/>  
+  <people pId="8adc7873-da0e-4541-aa03-7e1c202c3772" 名字="章赣" 年龄="21" 职业="学生"/>  
+  <people pId="3a2a4b6a-d44a-47cd-9213-7980e266b0e0" 名字="盲僧" 年龄="1000" 职业="学生"/>  
+  <people pId="2ab95306-b8dd-40cf-83e9-330a0034c4ce" 名字="李四" 年龄="20" 职业="和尚"/>  
+  <people pId="a669bb7c-cef7-4992-99d4-806817384c44" 名字="成龙" 年龄="60" 职业="演员"/> 
+</Peoples>
